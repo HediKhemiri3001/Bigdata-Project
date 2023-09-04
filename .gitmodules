@@ -1,0 +1,6 @@
+[submodule "big-data-project-stream"]
+	path = big-data-project-stream
+	url = git@github.com:HediKhemiri3001/big-data-project-stream.git
+[submodule "big-data-project-batch"]
+	path = big-data-project-batch
+	url = git@github.com:HediKhemiri3001/big-data-project-batch.git
